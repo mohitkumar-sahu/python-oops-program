@@ -5,8 +5,6 @@ implemented for learning, practice, and revision purposes.
 
 It is suitable for **beginners**, **students**, and anyone preparing for **interviews**.
 
----
-
 ## Topics Covered
 
 ### 🔹 Python Basics
